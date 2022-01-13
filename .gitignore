@@ -1,0 +1,19 @@
+node_modules
+
+#Hardhat files
+cache
+artifacts
+
+**mnemonic
+**.idea
+
+.env
+**.DS_Store
+.config
+config.json
+config**.json
+
+hardhat.config.js
+package.json
+package-lock.json
+yarn.lock
